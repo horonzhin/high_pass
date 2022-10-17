@@ -2,7 +2,9 @@
 ---
 
 :small_orange_diamond: Адаптивная, кроссбраузерная вёрстка сайта    
+
 :small_orange_diamond: В разработке использовалось: BEM методология, flexbox, grid
+
 :small_orange_diamond: Библиотеки:
 
   - Yandex maps API;
