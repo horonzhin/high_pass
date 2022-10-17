@@ -12,17 +12,17 @@ _Макет сайта на Fima - https://www.figma.com/file/u1WrVmV056NKsEyQja
 ---
 
 ## :computer: Desktop версия
-![highpass-desc]()
+![highpass-desc](https://github.com/horonzhin/high_pass/blob/master/img/highpass-desc.gif)
 
 ---
 
 ## :pager: Laptop версия
-![highpass-tablet]()
+![highpass-tablet](https://github.com/horonzhin/high_pass/blob/master/img/highpass-tablet.gif)
 
 ---
 
 ## :iphone: Mobile версия
-![highpass-mobile]()   
+![highpass-mobile](https://github.com/horonzhin/high_pass/blob/master/img/highpass-mobile.gif)   
 
 ---
 
