@@ -2,12 +2,11 @@
 ---
 
 :small_orange_diamond: Адаптивная, кроссбраузерная вёрстка сайта    
-:small_orange_diamond: В разработке использовалось: BEM методология, flexbox, grid, препроцессор  
+:small_orange_diamond: В разработке использовалось: BEM методология, flexbox, grid
 :small_orange_diamond: Библиотеки:
+
   - Yandex maps API;
   - GSAP
-
-_Макет сайта на Fima - https://www.figma.com/file/u1WrVmV056NKsEyQjaSTXA/Photo?node-id=0%3A1_
 
 ---
 
@@ -26,4 +25,4 @@ _Макет сайта на Fima - https://www.figma.com/file/u1WrVmV056NKsEyQja
 
 ---
 
-:beers:
+:beers::beers::beers::beers::beers::beers:
